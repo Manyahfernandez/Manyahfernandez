@@ -2,8 +2,8 @@
 
 <h2>About Me</h2>
 <br>
-- <p>I am a mathematics and computing student.</p>
-- <p>I am from Venezuela.</p>
+<p>- I am a mathematics and computing student.</p>
+<p>- I am from Venezuela.</p>
 <br>
 
 <h2>Contact Me</h2>
