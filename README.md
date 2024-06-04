@@ -7,7 +7,6 @@
 <br>
 
 <h2>Contact Me</h2>
-<a href="#"><img alt="https://img.shields.io/badge/LinkedIn%20Manuel-blue?style=flat-square&logo=linkedin"></a>
 
 ![GitHub Activity](https://github-readme-stats.vercel.app/api?username=Manyahfernandez&show_icons=true)
 
