@@ -8,8 +8,6 @@
 
 <h2>Contact Me</h2>
 <a href="#"><img alt="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin"></a>
-<a href="#"><img alt="Youtube" src="https://img.shields.io/badge/Youtube%20Dev-blue?style=flat-square&logo=youtube"></a>
-<a href="#"><img alt="Tiktok" src="https://img.shields.io/badge/Dev?style=flat-square&logo=tiktok"></a>  
 
 ![GitHub Activity](https://github-readme-stats.vercel.app/api?username=Manyahfernandez&show_icons=true)
 
