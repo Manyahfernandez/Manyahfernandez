@@ -1,5 +1,5 @@
 <h1>Hello! I'm Manuel F<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> 🚀</h1>
-### About Me
+<h2>About Me</h2>
 
 
 ![GitHub Activity](https://github-readme-stats.vercel.app/api?username=Manyahfernandez&show_icons=true)
